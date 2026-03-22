@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "アイドル",
   "base_artist": "YOASOBI",
-  "createdAt": "2026-03-19T12:18:35.597653Z",
+  "createdAt": "2026-03-22T01:09:07.443212Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -163,7 +163,7 @@
       "artist": "YOASOBI",
       "has_synced": true,
       "path": "select/localdb_01_アイドル_YOASOBI.lrc",
-      "repo_name": "ZRtdQ81jPUQ"
+      "repo_name": "PgBvV9ofjmA"
     },
     {
       "id": "localdb_2",
@@ -172,7 +172,7 @@
       "artist": "YOASOBI",
       "has_synced": true,
       "path": "select/localdb_02_アイドル_YOASOBI.lrc",
-      "repo_name": "KWlVo8mWPJs"
+      "repo_name": "ZRtdQ81jPUQ"
     },
     {
       "id": "localdb_3",
@@ -181,6 +181,15 @@
       "artist": "YOASOBI",
       "has_synced": true,
       "path": "select/localdb_03_アイドル_YOASOBI.lrc",
+      "repo_name": "KWlVo8mWPJs"
+    },
+    {
+      "id": "localdb_4",
+      "source": "localdb",
+      "title": "アイドル",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/localdb_04_アイドル_YOASOBI.lrc",
       "repo_name": "RzXTe-QfWTw"
     }
   ]
